@@ -1,10 +1,9 @@
 公開ネタ帳
 
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
+
 どなたでも断りなく、どんどん進めてください。
 ひとこと平井洋一に言うと、「それならもう○○さんが始めたらしいよ」という程度の情報をさしあげられるかもしれませんが。
 
 - twitterフォロワー数をnに強制的に減らすツール
-- twitterのだれかさんそhyperfollowして、すべてretweetするし、すべてのfavをまねする
-
-
-
+- twitterのだれかさんそhyperfollowして、そのひとのtweetすべてretweetするし、すべてのfavをまねする
