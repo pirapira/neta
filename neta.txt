@@ -7,7 +7,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 ひとこと平井洋一に言うと、「それならもう○○さんが始めたらしいよ」という程度の情報をさしあげられるかもしれませんが。
 
 - twitterフォロワー数をnに強制的に減らすツール
-- twitterのだれかさんそhyperfollowして、そのひとのtweetすべてretweetするし、すべてのfavをまねする
+- twitterのだれかさんをhyperfollowして、そのひとのtweetすべてretweetするし、すべてのfavをまねする
 - なんか褒め合うサービスをつくればいいきがする
 - 証明すると報酬が入るanarchy-proof
 
