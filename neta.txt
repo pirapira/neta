@@ -3,8 +3,25 @@
 Author: Yoichi Hirai <i@yoichihirai.com>
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
 
-どなたでも断りなく、どんどん進めてください。
+どなたでも断りなく進めてください。
 ひとこと平井洋一に言うと、「それならもう○○さんが始めたらしいよ」という程度の情報をさしあげられるかもしれませんが。
 
 - twitterフォロワー数をnに強制的に減らすツール
 - twitterのだれかさんそhyperfollowして、そのひとのtweetすべてretweetするし、すべてのfavをまねする
+- なんか褒め合うサービスをつくればいいきがする
+- 証明すると報酬が入るanarchy-proof
+
+- 会計ソフトウェアの仕様をCoqかなにかで書いてみる
+- suffix arrayをCoqかなにかで書いてみる
+
+- なんも書かないとcommon knowledgeということになって、実はしらなかったんだということがpositiveな論理式で書かれる、直観主義様相論理
+
+- Lorenzen gameを大人数にしてみる
+- javascriptのモデル検査をして、dom treeの状態遷移が行き止まりにならないことを検証する
+- Haskellの型クラスの等式をどうにかコンパイラに証明させる
+
+- 離散凸解析の一般化
+- HaskellでDNS server
+- ペトリネットのトークンに記憶をもたせる
+- 反対をむいて1点で接したふたつのペトリネットがトークン
+- 分裂融合するagentがどのような名前で呼び合えばいいのか
