@@ -1,5 +1,6 @@
 公開ネタ帳
 
+Author: Yoichi Hirai <i@yoichihirai.com>
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
 
 どなたでも断りなく、どんどん進めてください。
