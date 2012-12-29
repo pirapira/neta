@@ -27,3 +27,5 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - ペトリネットのトークンに記憶をもたせる
 - 反対をむいて1点で接したふたつのペトリネットがトークン
 - 分裂融合するagentがどのような名前で呼び合えばいいのか
+
+- 『バグは無くせる』て本
