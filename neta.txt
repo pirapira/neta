@@ -1,4 +1,4 @@
-公開ネタ帳
+1公開ネタ帳
 
 Author: Yoichi Hirai <i@yoichihirai.com>
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
@@ -21,6 +21,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - Lorenzen gameを大人数にしてみる
 - javascriptのモデル検査をして、dom treeの状態遷移が行き止まりにならないことを検証する
 - Haskellの型クラスの等式をどうにかコンパイラに証明させる
+- 純粋アスペクト指向プログラミング言語 クラスもオブジェクトも手続きも関数も無くて、アスペクトがある
 
 - 離散凸解析の一般化
 - HaskellでDNS server
