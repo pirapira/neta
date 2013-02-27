@@ -15,6 +15,8 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - 会計ソフトウェアの仕様をCoqかなにかで書いてみる
 - suffix arrayをCoqかなにかで書いてみる
 - ゲーデル賞をとった計算機科学の論文を、ひとつずつCoqにのせていく
+- Coqに翻訳できる日本語のサブセット
+- Haskellの簡約ステップ数をCoqで推論する (よさげだ)
 
 - なんも書かないとcommon knowledgeということになって、実はしらなかったんだということがpositiveな論理式で書かれる、直観主義様相論理
 
@@ -28,5 +30,8 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - ペトリネットのトークンに記憶をもたせる
 - 反対をむいて1点で接したふたつのペトリネットがトークン
 - 分裂融合するagentがどのような名前で呼び合えばいいのか
+- jQueryの意味論
 
 - 『バグは無くせる』て本
+- Goのメモリモデルを形式化する
+
