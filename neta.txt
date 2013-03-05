@@ -6,6 +6,8 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 どなたでも断りなく進めてください。
 ひとこと平井洋一に言うと、「それならもう○○さんが始めたらしいよ」という程度の情報をさしあげられるかもしれませんが。
 
+- 検証つきモデル検査器
+
 - twitterフォロワー数とかフォロー数とかをnに強制的に減らすツール
 - twitterのだれかさんをhyperfollowして、そのひとのtweetすべてretweetするし、すべてのfavをまねする
 - なんか褒め合うサービスをつくればいいきがする
@@ -16,7 +18,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - suffix arrayをCoqかなにかで書いてみる
 - ゲーデル賞をとった計算機科学の論文を、ひとつずつCoqにのせていく
 - Coqに翻訳できる日本語のサブセット
-- Haskellの簡約ステップ数をCoqで推論する (よさげだ)
+- Haskellの簡約ステップ数をCoqで推論する
 
 - なんも書かないとcommon knowledgeということになって、実はしらなかったんだということがpositiveな論理式で書かれる、直観主義様相論理
 
@@ -34,4 +36,58 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 
 - 『バグは無くせる』て本
 - Goのメモリモデルを形式化する
+- SQL injectionの形式的検証
 
+- Buchbergerの実装の検証
+- オークションとか市場とかの、検証つきの分散実装
+- max_queueとか、そういう簡単なデータ構造の検証つき実装
+
+- Supersuccessful formulaの特徴づけ
+- 型付λ計算を項とするπ計算のchanelごとにcomonadを設けると型付けできないか
+- 直観主義的なデータベース理論 これいいな
+- 実行するとバグが見付かる，いじわるOSの開発
+- Haskellの並列プログラムをMakefileっぽく書けるライブラリ
+- 修論の手法で線形論理の有限モデル性も言えるか試す
+- 修論のついでにLorenzen gameを多人数にする
+- sorting networkのzero-one principleは，parametricityの一例ではないか
+- HaskellでB+-tree
+- Contract as linear logic formula
+- generalized Paxosを修論の枠組みで書き下す
+- MessagePackを修論の枠組みで書き下す
+- 金融商品の開発環境とか取引ソフトをCoqで。LexiFiとかMLFi的な。
+- Ocsigen的なwebフレームワークを修論の枠組みに載せる
+- wait-free computation が射になる圏がありそうだ
+- かつが二種類で、additiveなのは、直観主義的で、multiplicativeなのは、古典的なラムダ計算の項とreductionをつくった          とまるか
+- 分裂したりする、気のきいた抽象機械を作って、さぞかし楽しそうにする          なんだろー。
+- rationalizabilityの一種を様相μ計算で書いた          ほかの概念も様相論理で書く          概念同士の難しさを比較する
+- session typeのプログラム抽出用の述語論理の体系を、作りかけている          channel passingに対応する述語論理の推論規則を作る
+- (鹿島問題) 代入極小ななんたらかんたら てるいさんに、無茶な問題だと警告された…。          ￢もボトムも無い体系だとどうなるか考える
+- 古典論理と直観主義の間に限らず、いろいろな論理の間の問題に拡張する     難     古森先生と鹿島先生が喜ぶ
+- Chemical Abstract Machineの熱力学をやろうとして、温度を何にとればいいのか、示量性の状態変数を何にとればいいのか、さっぱりわからなかった
+- 熱力学の公理的取り扱いというのがあって、公理さえみたせば、系の実体はなんでも、いいみたいだ          熱力学をやれる、ラムダ計算のabstract machineを作る
+- 可逆ラムダ計算?　→　Danos, Regnier の IAM, JAM これがreversible Turing Machineと相互に実装し合うとか？          教祖様になれる
+- 五十嵐さんの仕事の、N+\infを、多項式に変える          五十嵐さんの論文か、たなべさんの論文を、解読する          楽しいらしい
+- Firewallの設定のための論理を作ったらいいんじゃないかと思った          既存研究への不満を積み上げる          ISSっぽい。 ルールに漏れや重複があったら、指摘して、こういうのは許すんですか、と質問するのだろう。あるいは、interpolationでも使って、ちょっとずつ近似していくとか
+- dependence logicからのプログラム抽出を定義してみた。Security typeになる。          まじめに書く、というか確かTeXに起こした覚えがある          どうも当たり前に見える。
+- 安定マッチング問題の、男性側が一致団結した戦略が、bistructureの、configurationになっている。          だからなんだ。          ？
+- 離散凸解析を使ったstable matchingの特徴づけは、双方の選好が定まった問題について、stable matchingの存在を言っている。ぜんぶの選好についてのstable matching全体を扱うと、たのしそうだ。
+- wait-free computationのためのHoare論理は何か？          Rely-Guarantee法です          ×
+- 予測市場の熱力学をやる          熱力学の公理的取り扱いに載せる          系から実数への関数で、entropyらしいものがaffine変換で割って一意に存在することを示せる…嬉しいのだろうか
+- event-structureのconflict関係を、二項関係からhyperに変える          Winskellが自分でそのように拡張していました。          ×
+- join calculusのプロセスを、Bunched implication logicに翻訳すると、join calculusでreductionで移るなら、翻訳から翻訳を導出できる          だからなんだ。          ？
+- event-structureの上の論理を作る          concurrent なmodalityの作り方を選ぶ
+- event structures with symmetry は、bisimulationなのであったので、そのまま使える気はしない　→　もっと割る？          Concurrent Common Knowledgeという論文の論理を、simulateできればよい
+- software transactional memory のopacityという性質は、どんなに多数のthreadでviolate されることがあっても、結局2 threadで2 変数の場合のviolationに帰着させることができるそうだ          opacity(とか、software transactional memoryについて提唱されている性質いろいろ)を記述するために、どんなsyntaxを使うか決める          分散ソフトウェアの性質を記述する論理式をみるだけで、何processまでの場合についてモデル検査すればいいのかを明らかにできるとうれしい。
+- intuitionistic nominal logicからのプログラム抽出          "simpler proof theory for nominal logic" の、INLをみる
+- nominal bunched logicが意味ありげに見える          term modelの意味論を理解する →　よさそう
+- strand space in nominal logic          既存研究の調査 → unguessable atoms (Nurplに載せたようだ)          結局は、Isabelle/HOLに載せたりとか。値？
+- Untyped lambda のゲーム意味論は、head normal formに意味をつけて澄ましていた。PCFのゲーム意味論もそうなの？だとすると、？          PCFのゲーム意味論のcall-by-value版
+- 共有メモリへの書き込みも待たないwait-free計算では、通信が一切できないことに気付いた                    ？
+- Lehman-Yaoの並列B+-treeアルゴリズムを理解した          モデル検査できる仕様を考える
+-- ある段数、あるプロセス数で崩れるならば、n段mプロセス以下でも崩れる、とかいう性質の性質がほしい。          並列B+-treeアルゴリズムの(なにか)正しさを検証できる
+- Dynamic Epistmic Logicについて教えてもらった                    wait-free computationについて、dynamic epistmic logicみたいな感じにまとめる
+- probabilistic databaseがあるんなら、quantum databaseがあってもいいはずだ
+- wait-free ゲーム理論
+- javascript のモデル検査 マウスをのせて、押しながら動かしても色が戻るか、とか。
+- generic modelとか、抽象化ライブラリとか　モデル検査と証明の一般論
+- 離散凸の一般化
