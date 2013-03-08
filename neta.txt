@@ -91,3 +91,18 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - javascript のモデル検査 マウスをのせて、押しながら動かしても色が戻るか、とか。
 - generic modelとか、抽象化ライブラリとか　モデル検査と証明の一般論
 - 離散凸の一般化
+
+- IOSpecを、CloudHaskell用に拡張
+- 反対を向いてこすれあうふたつのペトリネットのこすれる点がtoken
+
+- suffix arrayの検証
+
+- 量子計算をつかって、トランザクションの並列制御
+- twitterのCoqインタフェース
+- 単にエージェントとしてパイ計算のチャネルを取ってはどうか。K_a P は、チャネル a を通った型Pのもの、ということらしい。
+- Fisher–Yates shuffleの検証
+- STMを使うプログラムの性質をCoqで証明したら楽しそう。
+- Read committedなのかserializableなのかも考えてCoqで証明書いたらすごく楽しそう。
+- iPhoneとかの、ゴミ回収日アプリ  GPSと時刻で。
+- マトロイドは集合の濃度に言及しているあたりがあやしげだと思って、んー、と思っている
+- なんか褒め合うサービスを作ればいい気がする
