@@ -106,3 +106,31 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - iPhoneとかの、ゴミ回収日アプリ  GPSと時刻で。
 - マトロイドは集合の濃度に言及しているあたりがあやしげだと思って、んー、と思っている
 - なんか褒め合うサービスを作ればいい気がする
+- コイン散らばった写真を撮ると、枚数金額数えてくれるiPhoneアプリ
+- 二本射が出ていると三本目がある圏
+- takusen使ってみるHaskellのpostgresql
+- 様相記号の意味を決めて、Eメールゲームを記述してみる
+- js_of_ocamlで電卓作るのはどうか。サーバサイドで計算をする。
+- なんでもいいからパースしてみる haskell-src-extで
+- IOSpecをよくみて真似てみる
+- 問題を関係ない問題に見せる
+- 方角でビームを飛ばす実装、考える
+- 赤池知るべし
+- Coq to Englishやるべき?
+- pirapira tacticを実装する
+- Micau Sichiuが線型なやつに適用できるか考える
+- Kripke-style models for typed lambdaをGodel--Dummettでやってみる
+- EIGHT OPEN PROBLEMS IN DISTRIBUTED COMPUTINGよむー特に最初のwaitfree
+- Djinのソースコードを読むとっかかりをみつけて、ブログ書こうぜ
+- KnuthのmixのCoq実装のつづき
+- 月面の磁場を計算する
+- common criteriaのことを調べる
+- 光子検出器の性能が、どっかを越えると確実ななんかができるらしい。へんなはなしだ。
+- 安全DNSサーバ、とか
+- coq2tex
+- スピノザが形式化可能かみてみる
+- Maildirのnew/cur/tmpの検証をしたい
+- coqの証明ゴールbotを始めよう
+- Safra木をCoqで
+- 数学的帰納法をつかったモデル検査
+- DNSサーバをHaskellで
