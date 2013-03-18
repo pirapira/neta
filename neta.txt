@@ -6,38 +6,26 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 どなたでも断りなく進めてください。
 ひとこと平井洋一に言うと、「それならもう○○さんが始めたらしいよ」という程度の情報をさしあげられるかもしれませんが。
 
+研究
+======
+
 - 検証つきモデル検査器
-
-- twitterフォロワー数とかフォロー数とかをnに強制的に減らすツール
-- twitterのだれかさんをhyperfollowして、そのひとのtweetすべてretweetするし、すべてのfavをまねする
-- なんか褒め合うサービスをつくればいいきがする
-- 証明すると報酬が入るanarchy-proof
-- Coqの問題をつぶやいて、@coqcoq intros. って返信がくると、次のGoalをつぶやいてくれるbot.
-
 - 会計ソフトウェアの仕様をCoqかなにかで書いてみる
 - suffix arrayをCoqかなにかで書いてみる
 - ゲーデル賞をとった計算機科学の論文を、ひとつずつCoqにのせていく
 - Coqに翻訳できる日本語のサブセット
 - Haskellの簡約ステップ数をCoqで推論する
-
 - なんも書かないとcommon knowledgeということになって、実はしらなかったんだということがpositiveな論理式で書かれる、直観主義様相論理
-
-- Lorenzen gameを大人数にしてみる
-- javascriptのモデル検査をして、dom treeの状態遷移が行き止まりにならないことを検証する
+- Lorenzen gameを大人数にしてみる (だれかやってたかも)
 - Haskellの型クラスの等式をどうにかコンパイラに証明させる
 - 純粋アスペクト指向プログラミング言語 クラスもオブジェクトも手続きも関数も無くて、アスペクトがある
-
 - 離散凸解析の一般化
-- HaskellでDNS server
 - ペトリネットのトークンに記憶をもたせる
 - 反対をむいて1点で接したふたつのペトリネットがトークン
 - 分裂融合するagentがどのような名前で呼び合えばいいのか
 - jQueryの意味論
-
-- 『バグは無くせる』て本
 - Goのメモリモデルを形式化する
-- SQL injectionの形式的検証
-
+- SQL injection防止の形式的検証
 - Buchbergerの実装の検証
 - オークションとか市場とかの、検証つきの分散実装
 - max_queueとか、そういう簡単なデータ構造の検証つき実装
@@ -91,19 +79,33 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - javascript のモデル検査 マウスをのせて、押しながら動かしても色が戻るか、とか。
 - generic modelとか、抽象化ライブラリとか　モデル検査と証明の一般論
 - 離散凸の一般化
-
-- IOSpecを、CloudHaskell用に拡張
-- 反対を向いてこすれあうふたつのペトリネットのこすれる点がtoken
-
-- suffix arrayの検証
-
 - 量子計算をつかって、トランザクションの並列制御
-- twitterのCoqインタフェース
 - 単にエージェントとしてパイ計算のチャネルを取ってはどうか。K_a P は、チャネル a を通った型Pのもの、ということらしい。
 - Fisher–Yates shuffleの検証
 - STMを使うプログラムの性質をCoqで証明したら楽しそう。
-- Read committedなのかserializableなのかも考えてCoqで証明書いたらすごく楽しそう。
+
+インターネット
+======
+
+- twitterフォロワー数とかフォロー数とかをnに強制的に減らすツール
+- twitterのだれかさんをhyperfollowして、そのひとのtweetすべてretweetするし、すべてのfavをまねする
+- なんか褒め合うサービスをつくればいいきがする
+- 証明すると報酬が入るanarchy-proof
+- Coqの問題をつぶやいて、@coqcoq intros. って返信がくると、次のGoalをつぶやいてくれるbot.
 - iPhoneとかの、ゴミ回収日アプリ  GPSと時刻で。
+
+- HaskellでDNS server
+
+そのた
+======
+- 『バグは無くせる』て本
+
+
+未整理
+======
+
+
+- Read committedなのかserializableなのかも考えてCoqで証明書いたらすごく楽しそう。
 - マトロイドは集合の濃度に言及しているあたりがあやしげだと思って、んー、と思っている
 - なんか褒め合うサービスを作ればいい気がする
 - コイン散らばった写真を撮ると、枚数金額数えてくれるiPhoneアプリ
@@ -134,3 +136,4 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 - Safra木をCoqで
 - 数学的帰納法をつかったモデル検査
 - DNSサーバをHaskellで
+- OCamlのコードが生成するSQLが、なにか秘密にしなくてはいけないことを守るということを検証する(injectionの対策)
